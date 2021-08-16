@@ -1,0 +1,5 @@
+RESOLUSI CULES AJID
+- Belajar java Colecctions
+- Belajar Apace Maven
+- Membuat Projek GUI
+- Membuat Website dengan spring
