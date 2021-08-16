@@ -4,4 +4,3 @@ RESOLUSI CULES AJID
 - Membuat Projek GUI
 - Membuat Website dengan spring
 - Membuat Android dengan android studio
-- Belajar Javascript
