@@ -3,3 +3,5 @@ RESOLUSI CULES AJID
 - Belajar Apace Maven
 - Membuat Projek GUI
 - Membuat Website dengan spring
+- Membuat Android dengan android studio
+- Belajar Javascript
